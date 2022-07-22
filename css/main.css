@@ -378,6 +378,11 @@ article {
   vertical-align: middle;
 }
 
+.audio__player {
+  position: relative;
+  z-index: 3;
+}
+
 @supports (-webkit-appearance:none) {
 
 }
