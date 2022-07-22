@@ -252,14 +252,14 @@ article {
 
 .img.z1 {
   z-index: 1;
-  -webkit-animation: z1__animation 10s infinite linear;
-  animation: z1__animation 10s infinite linear;
+  -webkit-animation: z1__animation 20s infinite linear;
+  animation: z1__animation 20s infinite linear;
 }
 
 .img.z2 {
   z-index: 2;
-  -webkit-animation: z2__animation 10s infinite linear;
-  animation: z2__animation 10s infinite linear;
+  -webkit-animation: z2__animation 20s infinite linear;
+  animation: z2__animation 20s infinite linear;
 }
 
 @-webkit-keyframes z1__animation {
